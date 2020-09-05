@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AWCC</string>
+    <string name="essential">Essential</string>
+    <string name="magenta">Magenta</string>
+    <string name="magenta_plus">Magenta Plus</string>
+    <string name="upgrades_migrations">Upgrades/Migrations</string>
+    <string name="_360_sprint_complete">360/Sprint Complete</string>
+    <string name="total_feature_mrc">Total Feature MRC</string>
+    <string name="payout">Payout</string>
+    <string name="absolute_wireless_commission_calculator">Absolute Wireless Commission Calculator</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="calculate">Calculate</string>
+    <string name="sprint_complete">Sprint Complete</string>
+    <string name="upgrades">Upgrades</string>
+    <string name="premium">Premium</string>
+    <string name="prepaid">Prepaid</string>
+    <string name="plus">Plus</string>
+    <string name="basic">Basic</string>
+    <string name="accessory_spiff">Accessory/Spiff</string>
+    <string name="sprint_calculator">Sprint Calculator</string>
+    <string name="sprint">Sprint</string>
+    <string name="protection_360">Protection 360</string>
+    <string name="t_mobile">T-Mobile</string>
+    <string name="of_accessories"># of Accessories</string>
+    <string name="accessory">Accessory</string>
+    <string name="calculate2">calculate</string>
+    <string name="bts_emerging_products">BTS/Emerging Products</string>
+    <string name="sprint_tmo_upgrades"><![CDATA[Sprint & TMO Upgrades]]></string>
+</resources>
